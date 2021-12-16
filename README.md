@@ -21,3 +21,5 @@ You may input the location in the Terminal section in the Visual Studio Code IDE
 The results are also displayed in the Terminal section.
 
 p/s: The third file is still in progress (I will update the working file into this repository). The intended system if to get Tweets about any input hashtag from user. I need to wait for twitter response in getting the API key.
+
+Note: you can also run each python file using the code Python (filename).py and press enter
