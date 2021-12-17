@@ -9,7 +9,7 @@
 7. Open Visual Studio Code and install Python in the Extensions section by searching for Python. Follow as prompted.
 
 
-#This project comprises of three different working files.
+#This project comprises of two different working files.
 
 ISSTracking_Tiara file will display results in the iss.txt file where it shows the number of astronauts onboard and the current latitude & latitude. 
 The second windows prompt is the Python Turtle Graphics, showing the world map and the real time location of the ISS Space Station that refreshes every 5 seconds.
@@ -19,7 +19,5 @@ p/s: I'm still working on how to get the user time input (Task: Getting the loca
 ISSTracking_Tiara_Weather file will display weather forecast for any given Country/City entered by the user.
 You may input the location in the Terminal section in the Visual Studio Code IDE.
 The results are also displayed in the Terminal section.
-
-p/s: The third file is still in progress (I will update the working file into this repository). The intended system if to get Tweets about any input hashtag from user. I need to wait for twitter response in getting the API key.
 
 Note: you can also run each python file using the code Python (filename).py and press enter
